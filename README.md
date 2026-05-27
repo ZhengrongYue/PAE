@@ -81,8 +81,3 @@ Please consider citing our work as follows if it is helpful.
       url={https://arxiv.org/abs/2605.07915}, 
 }
 ```
-
-## ✨ Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=ZhengrongYue/PAE&type=Date)](https://star-history.com/#ZhengrongYue/PAE&Date)
-
